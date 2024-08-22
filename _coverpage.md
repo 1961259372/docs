@@ -6,6 +6,6 @@
 
 > A magical documentation site generator.
 
-[Get Started](/README.md)
+[Get Started](/index.md)
 
 <!-- ![color](#f36981) -->
