@@ -1,11 +1,9 @@
 <!-- _coverpage.md -->
 
-
-
-# docsify <small>3.5</small>
+> ##### test
 
 > A magical documentation site generator.
 
-[Get Started](/index.md)
+[开始](/index.md)
 
 <!-- ![color](#f36981) -->

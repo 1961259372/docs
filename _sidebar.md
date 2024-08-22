@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/index.md)
+* [Home](index.md)
 * Guide
-  * [Guide](/guide.md)
-  * [List](/list.md)
+  * [Guide](guide.md)
+  * [List](list.md)
